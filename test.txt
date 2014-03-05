@@ -1,6 +1,4 @@
 line 1
-<<<<<<< HEAD
 line 2
 line 3
-=======
->>>>>>> parent of 136c322... commit 2
+
