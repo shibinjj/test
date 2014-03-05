@@ -1,4 +1,1 @@
-pushing to newly added remote
-editing from other a/c
-testing pull command
-merging
+line 1
